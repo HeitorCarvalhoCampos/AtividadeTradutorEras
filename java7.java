@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Comparator;
 
-public class main {
+public class java7 {
 
     public void executar() {
         List<Motorista> motoristas = getMotoristasDaEmpresa();
